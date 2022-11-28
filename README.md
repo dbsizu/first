@@ -1,18 +1,6 @@
-# Docker Getting Started Tutorial
+# Background of The Company
 
-This tutorial has been written with the intent of helping folks get up and running
-with containers and is designed to work with Docker Desktop. While not going too much 
-into depth, it covers the following topics:
-
-- Running your first container
-- Building containers
-- Learning what containers are running and removing them
-- Using volumes to persist data
-- Using bind mounts to support development
-- Using container networking to support multi-container applications
-- Using Docker Compose to simplify the definition and sharing of applications
-- Using image layer caching to speed up builds and reduce push/pull size
-- Using multi-stage builds to separate build-time and runtime dependencies
+This assessment will provide an analysis on the strategic marketing components related to the Irish retail organisation Centra. The brand orientation of this organisation with a critical observation in the corporate context will be followed in this analysis by demonstrating an in- depth understanding on the application of analytical marketing. Moreover, the opportunities in the marketing concepts involved for the organisation will highlight the components for strategic decision-making in the organisation
 
 ## Getting Started
 
