@@ -1,5 +1,5 @@
-Heading	# H1
-
+# H1
+This assessment will provide an analysis on the strategic marketing components related to the Irish retail organisation Centra. The brand orientation of this organisation with a critical observation in the corporate context will be followed in this analysis by demonstrating an in- depth understanding on the application of analytical marketing. Moreover, the opportunities in the marketing concepts involved for the organisation will highlight the components for strategic decision-making in the organisation
 
 ## H2
 
